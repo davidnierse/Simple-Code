@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main(void)
+
+int i = 10, j = 20
+int k = i + j
+
+{
+printf("How much is the sum of %i plus %i?\n", i, j);
+printf("The sum of %i plus %i is %i\n", i, j, k);
+}
+return 0;
